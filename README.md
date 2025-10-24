@@ -5,7 +5,7 @@
   <b>Linkedin<b/>
 </a>
 <br/>
-<a href="https://www.linkedin.com/in/andrew-sw-lee/" target="_blank"> 
+<a href="https://www.andrewlee03.dev" target="_blank"> 
   <b>Personal Site<b/>
 </a>
 

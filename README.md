@@ -10,17 +10,13 @@
 </a>
 
 ## Experience
-**Incoming Software Engineer** @ [Meta](https://about.meta.com/)  
-*2026*
+- Incoming Software Engineer @ [Meta](https://about.meta.com/)  (2026)
 
-**Software Engineer Intern** @ [Meta](https://about.meta.com/)  
-*May 2025 – August 2025*
+- Software Engineer Intern @ [Meta](https://about.meta.com/)  (*May 2025 – August 2025*)
 
-**Software Development Engineer Intern** @ [Amazon](https://www.aboutamazon.com/)  
-*August 2024 – December 2024*
+- Software Development Engineer Intern @ [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics) (*August 2024 – December 2024*)
 
-**Software Engineer Intern** @ [Priceline](https://www.priceline.com/)  
-*January 2024 – June 2024*
+- Software Engineer Intern @ [Priceline](https://www.priceline.com/)  (*January 2024 – June 2024*)
 
 ## Skills:
 ### Languages and Tools:

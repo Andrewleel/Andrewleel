@@ -1,99 +1,69 @@
-## Hi, my name is Andrew! 
+<div align="center">
 
-## Socials: 
-<a href="https://www.linkedin.com/in/andrew-sw-lee/" target="_blank"> 
-  <b>Linkedin<b/>
+# Hi, I'm Andrew!
+
+### Incoming Software Engineer @ <a href="https://about.meta.com/">Meta</a>
+
+<a href="https://www.linkedin.com/in/andrew-sw-lee/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<br/>
-<a href="https://www.andrewlee03.dev" target="_blank"> 
-  <b>Personal Site<b/>
+<a href="https://www.andrewlee03.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
 </a>
 
-## Experience
-Incoming Software Engineer @ [Meta](https://about.meta.com/)  (2026) \
-Software Engineer Intern @ [Meta](https://about.meta.com/)  (*May 2025 – August 2025*) \
-Software Development Engineer Intern @ [Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics) (*August 2024 – December 2024*)\
-Software Engineer Intern @ [Priceline](https://www.priceline.com/)  (*January 2024 – June 2024*)
-
-## Skills:
-### Languages and Tools:
-<a href="https://www.python.org" target="_blank"> 
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> 
-  <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> 
-</a>
-<a href="https://www.java.com" target="_blank"> 
-  <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
-</a>
-<a href="https://kotlinlang.org/" target="_blank"> 
-  <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> 
-</a>
-<a href="https://www.php.net/" target="_blank"> 
-  <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> 
-</a>
-<a href="https://go.dev/" target="_blank"> 
-  <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/> 
-</a>
 <br/>
 <br/>
 
-### Frameworks:
-<a href="https://reactjs.org/" target="_blank"> 
-  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> 
-</a>
-<a href="https://nodejs.org/" target="_blank"> 
-  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/> 
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> 
-  <b>Flask</b>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> 
-  <img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"/> 
-</a>
-<a href="https://pytorch.org/" target="_blank"> 
-  <img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/> 
-</a>
+---
+
+<div align="center">
+
+## 💼 Experience
+
+| Company | Role | Date |
+| :---: | :---: | :---: |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="20"/> **[Meta](https://about.meta.com/)** | **Incoming Software Engineer** | *2026* |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="20"/> **[Meta](https://about.meta.com/)** | Software Engineer Intern | *May 2025 – Aug 2025* |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="20"/> **[Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)** | Software Dev Engineer Intern | *Aug 2024 – Dec 2024* |
+| <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Priceline.com_Logo.svg" width="20"/> **[Priceline](https://www.priceline.com/)** | Software Engineer Intern | *Jan 2024 – June 2024* |
+
+</div>
+
+<div align="center">
+
+---
+
+## 🛠 Skills
+
+### Languages
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+
+### Frameworks & Libraries
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+
+### Tools & Cloud
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"/></a>
+
 <br/>
 <br/>
 
-### Tools:
-<a href="https://git-scm.com/" target="_blank"> 
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
-</a>
-<a href="https://github.com/" target="_blank"> 
-  <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/> 
-</a>
-<a href="https://www.docker.com/" target="_blank"> 
-  <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/> 
-</a>
-<a href="https://aws.amazon.com/" target="_blank"> 
-  <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> 
-</a>
-<a href="https://www.postgresql.org/" target="_blank"> 
-  <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank"> 
-  <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/> 
-</a>
+---
 
-<!--
-**Andrewleel/Andrewleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=andrewleel&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

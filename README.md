@@ -22,7 +22,6 @@
 
 | Company | Role | Date |
 | :---: | :---: | :---: |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="20"/> **[Meta](https://about.meta.com/)** | **Incoming Software Engineer** | *2026* |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" width="20"/> **[Meta](https://about.meta.com/)** | Software Engineer Intern | *May 2025 – Aug 2025* |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="20"/> **[Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)** | Software Dev Engineer Intern | *Aug 2024 – Dec 2024* |
 | <img src="https://upload.wikimedia.org/wikipedia/en/f/f0/Priceline.com_Logo.svg" width="20"/> **[Priceline](https://www.priceline.com/)** | Software Engineer Intern | *Jan 2024 – June 2024* |

@@ -2,8 +2,6 @@
 
 # Hi, I'm Andrew!
 
-### Incoming Software Engineer @ <a href="https://about.meta.com/">Meta</a>
-
 <a href="https://www.linkedin.com/in/andrew-sw-lee/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>

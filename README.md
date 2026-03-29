@@ -20,6 +20,7 @@
 
 | Company | Role | Date |
 | :---: | :---: | :---: |
+| **[Meta](https://about.meta.com/)** | Software Engineer | *Feb 2026 - Present* |
 | **[Meta](https://about.meta.com/)** | Software Engineer Intern | *May 2025 – Aug 2025* |
 | **[Amazon Robotics](https://www.aboutamazon.com/news/tag/robotics)** | Software Dev Engineer Intern | *Aug 2024 – Dec 2024* |
 | **[Priceline](https://www.priceline.com/)** | Software Engineer Intern | *Jan 2024 – June 2024* |
